@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Stead08&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Stead08&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Stead08&theme=default)
